@@ -1,1 +1,1 @@
-web:guicorn myapi.wsgi
+web: guicorn myapi.wsgi
